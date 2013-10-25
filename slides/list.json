@@ -1,0 +1,37 @@
+[
+    [
+        "index.html",
+        "bio.html"
+    ],
+    "disclaimer.html",
+    "tools.html",
+    "toolset.html",
+    [
+        "bower.html",
+        "bower-flujo-actual.html",
+        "bower-conoce-a-bower.html",
+        "bower-ventajas.html"
+    ],
+    [
+        "grunt.html",
+        "grunt-automatizacion-tareas-en-javascript.html",
+        "grunt-ventajas.html",
+        "grunt-gruntfilejs.html"
+    ],
+    [
+        "yo.html",
+        "yo-definition.html",
+        "yo-webapp.html",
+        "yo-scaffold.html",
+        "yo-webapp-components.html",
+        "yo-livereload.html",
+        "yo-angular.html",
+        "yo-backbone.html",
+        "yo-ember.html",
+        "yo-generators.html",
+        "yo-reveal.html",
+        "yo-generator.html"
+    ],
+    "team.html",
+    "the-end.html"
+]

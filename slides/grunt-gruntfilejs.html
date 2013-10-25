@@ -1,0 +1,21 @@
+<section>
+    <h2 style="background-color: rgba(250, 250, 250, 0.90)">Gruntfile.js</h2>
+    <pre><code data-trim contenteditable>
+module.exports = function(grunt) {
+
+  grunt.initConfig({
+    uglify: {
+      build: {
+        src: 'myscript.js',
+        dest: 'myscript.min.js'
+      }
+    }
+  });
+
+  grunt.loadNpmTasks('grunt-contrib-uglify');
+  grunt.registerTask('default', ['uglify']);
+
+};
+    </code></pre>
+
+</section>
